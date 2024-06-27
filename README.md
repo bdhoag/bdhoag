@@ -6,7 +6,7 @@
 <p align="center">
  <!-- <img src="https://komarev.com/ghpvc/?username=bdhoag&label=Profile%20views&color=0e75b6&style=flat" alt="bdhoang" /> -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="hoang's languages" /> -->
- <img alt="Profile followers" src="https://img.shields.io/github/followers/bdhoag">
+ <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/bdhoag"> -->
 </p>
 
 <div align="center">

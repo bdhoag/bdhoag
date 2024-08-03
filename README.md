@@ -49,7 +49,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/hoangbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/9565088/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://fb.com/xxxbdhoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xxxbdhoang" height="30" width="40" /></a>
 <a href="https://instagram.com/bd_hoag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bd_hoag" height="30" width="40" /></a>
@@ -108,7 +108,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdhoag\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdhoag\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bdhoag&theme=midnight-purple)](https://git.io/streak-stats)
 

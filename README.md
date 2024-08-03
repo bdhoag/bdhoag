@@ -110,7 +110,7 @@
 
 ![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdhoag\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bdhoag&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bdhoag&theme=transparent)](https://git.io/streak-stats)
 
 </div>
 

@@ -44,7 +44,7 @@
 
 <!---- 📄 Know about my experiences [my experiences](http://))-->
 
-- ⚡ Fun fact **I just try to act logically to hide my true self**
+<!--- ⚡ Fun fact **I just try to act logically to hide my true self**-->
 
 <br>
 <h3 align="left">Connect with me:</h3>

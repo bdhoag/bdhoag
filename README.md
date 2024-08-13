@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Bui Duc Hoang</h1>
-<h3 align="center">A Programmer from Vietnam</h3>
+<h1 align="center">Hi! I'm Bui Duc Hoang</h1>
+<!--<h3 align="center">A Programmer from Vietnam</h3>-->
 <!-- <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> -->
 <p align="center">
  <!-- <img src="https://komarev.com/ghpvc/?username=bdhoag&label=Profile%20views&color=0e75b6&style=flat" alt="bdhoang" /> -->
@@ -59,46 +59,27 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills:</h3>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,ts,js" />
-    <!-- <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,nextjs,redux,tailwind,materialui" /> -->
-  </a>
-</p>
+- <b>Languages and Tools</b>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring" />
-    <!-- <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" /> -->
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,git,github,postman,selenium)](https://skillicons.dev)
 
-<!-- - Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p> -->
+- <b>Frontend</b>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,firebase" />
-    <!-- <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" /> -->
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,mui,react,redux,vue,vite)](https://skillicons.dev)
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" /> -->
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux" />
-  </a>
-</p>
+- <b>Backend</b>
+
+[![My Skills](https://skillicons.dev/icons?i=spring,maven)](https://skillicons.dev)
+
+- <b>Cloud Servers</b>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,firebase,githubactions,vercel)](https://skillicons.dev)
+
+- <b>Others</b>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,idea,vscode)](https://skillicons.dev)
 
 <br/>
 

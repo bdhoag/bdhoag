@@ -59,9 +59,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Technical Skills:</h3>
+<!--- <h3 align="left">Technical Skills:</h3> -->
 
-- <b>Languages and Tools</b>
+<!--- - <b>Languages and Tools</b>
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,git,github,postman,selenium)](https://skillicons.dev)
 
@@ -104,4 +104,4 @@
 ![Hoang's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdhoag&custom_title=Hoang's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006AFF&line=006AFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->

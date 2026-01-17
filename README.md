@@ -55,6 +55,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">Activity:</h3>
+
+![Hoang's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdhoag&custom_title=Hoang's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006AFF&line=006AFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!--- <h3 align="left">Technical Skills:</h3> -->
 
 <!--- - <b>Languages and Tools</b>
@@ -95,9 +102,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
-
-![Hoang's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdhoag&custom_title=Hoang's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006AFF&line=006AFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+ -->
